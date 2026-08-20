@@ -46,9 +46,9 @@ that did not make this list, are written up next to the specification in
 
 ## What it took to build
 
-⏱️ **1.1 hours** from the first command to the published repository, **1.1** of them active<br>
-💬 **318** exchanges with the model<br>
-✍️ **294,218** tokens written by the model, **66,663,761** counting everything sent and re-sent<br>
+⏱️ **1.2 hours** from the first command to the published repository, **1.2** of them active<br>
+💬 **362** exchanges with the model<br>
+✍️ **320,183** tokens written by the model, **83,590,748** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 **29** tests
 
