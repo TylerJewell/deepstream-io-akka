@@ -1,0 +1,14 @@
+deepstream-io-akka
+Copyright 2026 Tyler Jewell
+
+This software was written for the Akka Specify port experiment and is licensed
+under the Apache License, Version 2.0. See LICENSE.
+
+It is a clean-room implementation: written against a specification derived by
+running deepstreamIO/deepstream.io (https://github.com/deepstreamIO/deepstream.io) and recording what it does, not by
+translating its source.
+
+No source from deepstreamIO/deepstream.io is shipped here. That project, Copyright 2019 deepstreamHub GmbH
+and licensed under MIT, was the subject of the specification this software was
+written against -- not a source of its code. See ACKNOWLEDGEMENTS.md for any text
+carried across and why.
